@@ -4,7 +4,6 @@
 	<title>Dokumen</title>
 	<link rel="stylesheet" href="css/ionicons.min.css">
 	<style type="text/css">
-
 	::selection {
 		color:#fff;
         background: firebrick;
